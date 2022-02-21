@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amir272
-- 👀 I’m interested in Java development and Devops
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning Devops(mostly CI/CD, AWS Lambda, Docker, Kubernetes, Java advance concepts like JVM, threads...)
 - 💞️ I’ve experience on Spring boot, Angular JS, Docker, Git(of course), AWS
 - 📫 Reach me on my email mkamirsidik@gmail.com or ring me up on +918853098357

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amir272
+- 👋 Hi, I’m @amir272. Read my Java, JS and trech blog at https://nodedjava.com
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning Devops(mostly CI/CD, AWS Lambda, Docker, Kubernetes, Java advance concepts like JVM, threads...)
 - 💞️ I’ve experience on Spring boot, Angular JS, Docker, Git(of course), AWS
